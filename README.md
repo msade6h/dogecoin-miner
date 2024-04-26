@@ -1,4 +1,4 @@
-به شما یک README حرفه‌ای برای پروژه استخراج بلوک دوج کوین ارائه می‌دهم:
+
 ![OIG3 9OaEAo copy](https://github.com/msade6h/dogecoin-miner/assets/94873023/2ccdeeee-f5f9-4826-ac28-74142a7787f2)
 
 ---
@@ -50,17 +50,7 @@ Before running the miner, make sure to configure the following settings in the `
 - **Wallet Address**: Enter your Dogecoin wallet address.
 - **Mining Difficulty**: Set the desired mining difficulty level.
 
-## Contributing
 
-Contributions to the Dogecoin Block Miner project are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on GitHub.
-
-
----
-
-Feel free to customize this README according to your project's specific requirements and branding preferences. Good luck with your Dogecoin mining project!
-
-
-البته، الان یک README.md حرفه‌ای برای پروژه استخراج بلوک دوج کوین به زبان فارسی طراحی می‌کنم:
 
 ---
 
